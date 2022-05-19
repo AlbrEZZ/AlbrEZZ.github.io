@@ -7,4 +7,4 @@ author: Alberto
 ---
 #atom editar textos
 
-Se supone que tengo que poner algo
+Se supone que tengo que poner algo.
